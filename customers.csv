@@ -1,0 +1,6 @@
+email,firstname,lastname,sex,age,is_new,birthday
+i.ivanov@inbucket.local,Иван,Иванов,m,38,true,18.03.1986
+v.petrov@inbucket.local,Василий,Петров,m,18,false,16.03.2006
+a.vasileva@inbucket.local,Алиса,Васильева,f,23,false,18.03.2001
+maria.rayskaya@yandex.ru,Мария,Райская,f,19,false,01.07.2004
+petr.frolov@mail.ru,Петр,Фролов,m,50,true,10.10.1973
